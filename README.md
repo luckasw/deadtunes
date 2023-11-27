@@ -5,8 +5,8 @@ A relatively simple way to find unavailable songs in your iTunes library.
 ## Usage
 
 1. Start iTunes
+3. Fullscreen iTunes and go to songs view and scroll to the top  (make sure iCloud Download column is visible)
 2. Run `deadtunes.py`
-3. Fullscreen iTunes and go to songs view and scroll to the top
 4. Position your mouse cursor in the top left corner of the iTunes window
 5. Press F5
 6. Position your mouse cursor in the bottom right corner of the iTunes window
