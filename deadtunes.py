@@ -45,7 +45,7 @@ while True:
 getdeadsongs(x1, y1, x2, y2)
 
 print("Songs found:")
-with open('songs.txt', 'w') as f:
+with open('deadtunes.txt', 'w') as f:
     for item in songs:
         f.write("%s\n" % item)
         print(item)
